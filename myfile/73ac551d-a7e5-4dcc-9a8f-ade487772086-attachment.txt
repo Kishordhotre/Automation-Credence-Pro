@@ -1,0 +1,11 @@
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:144 The chromedriver version (120.0.6099.109) detected in PATH at C:\Users\Dell\AppData\Local\Programs\Python\Python311\chromedriver.exe might not be compatible with the detected chrome version (121.0.6167.85); currently, chromedriver 121.0.6167.85 is recommended for chrome 121.*, so it is advised to delete the driver in PATH and retry
+[32mINFO    [0m Test_User_Profile:test_UserProfile.py:21 test_UserRegistration_001 is started
+[32mINFO    [0m Test_User_Profile:test_UserProfile.py:23  Opening Browser
+[32mINFO    [0m Test_User_Profile:test_UserProfile.py:26 Going to Url-->https://automation.credence.in/register
+[32mINFO    [0m Test_User_Profile:test_UserProfile.py:28 Entering the name
+[32mINFO    [0m Test_User_Profile:test_UserProfile.py:32 Entering the Email-->ckdx@outlook.com
+[32mINFO    [0m Test_User_Profile:test_UserProfile.py:35 Entering the password
+[32mINFO    [0m Test_User_Profile:test_UserProfile.py:38 Entering the confirm password
+[32mINFO    [0m Test_User_Profile:test_UserProfile.py:41 Clicking on Register Button
+[32mINFO    [0m Test_User_Profile:test_UserProfile.py:44 test_UserRegistration_001 is pass
+[32mINFO    [0m Test_User_Profile:test_UserProfile.py:54 test_UserRegistration_001 is completed
